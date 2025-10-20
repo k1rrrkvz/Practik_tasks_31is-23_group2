@@ -4,7 +4,7 @@
 ## Проект: IT News Parser Bot
 
 ### Цель проекта
-Создать Telegram бота для парсинга IT статей с сайта [securitylab.ru/analytics/](https://www.securitylab.ru/analytics/) с возможностью просмотра карточек статей и их полного содержимого.
+Создать Telegram бота для парсинга IT статей с сайта [habr.com/ru/articles/](https://habr.com/ru/articles/) с возможностью просмотра карточек статей и их полного содержимого.
 
 ### Функциональные требования
 
